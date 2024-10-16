@@ -1,0 +1,9 @@
+{
+    "name":"auto-scaling-nodejs",
+    "version": "1.0.0",
+    "author": "mansi",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+
+}
